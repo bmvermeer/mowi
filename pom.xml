@@ -42,7 +42,7 @@
     <elasticsearch.version>7.7.0</elasticsearch.version>
     <freemarker-java8.version>2.0.0</freemarker-java8.version>
     <jackson.version>2.11.0</jackson.version>
-    <jsoup.version>1.13.1</jsoup.version>
+    <jsoup.version>1.15.3</jsoup.version>
     <kefirbb.version>1.5</kefirbb.version>
     <logstash-logback-encoder.version>6.3</logstash-logback-encoder.version>
     <logstash-logging-spring-boot-starter.version>1.2.2.RELEASE</logstash-logging-spring-boot-starter.version>
